@@ -1,8 +1,8 @@
 Prueba técnica
 
 Se debe crear un aplicativo web con tecnología React Js o la tecnología que vayas a evaluar
-preferiblemente utilizando hooks.
-Recursos:
+preferiblemente utilizando hooks. Recursos:
+
 1. La pantalla inicial debe ser un inicio de sesión con usuario y contraseña, en caso de no estar
 registrado debe tener un botón que de la opción de registrarse. El registro debe contener los
 campos de usuario, email, contraseña, repetir contraseña, fecha de nacimiento.
